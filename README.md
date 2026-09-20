@@ -1,6 +1,6 @@
 Hi there 👋
 
-<div>
+<div align="center">
 
 Everything as Code! 
 
