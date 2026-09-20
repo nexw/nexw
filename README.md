@@ -1,18 +1,12 @@
 Hi there 👋
 
-
-
-
-
 <div>
 
-I don't coding, but I love code.
+Everything as Code! 
 
-I'm learning anything about AI Agent and using them to do somethings.
+I'am learning to rebuild the world.
 
 It's awesome here, I love here .
-
-﻿
 
 </div>
 
